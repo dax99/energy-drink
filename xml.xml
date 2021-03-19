@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<kandidati>
+		<kandidat pol="Muško">
+		
+			<ime>Damjan</ime>
+			<prezime>Damjanoski</prezime>
+			<email>damjan.damjanoski.20.18@ict.edu.rs</email>
+			<mesto>Dizajner</mesto>
+		</kandidat>
+		
+		<kandidat pol="Muško">
+			<ime>Marshall</ime>
+			<prezime>Matters</prezime>
+			<email>eminem@gmail.com</email>
+			<mesto>Promoter</mesto>
+		</kandidat>
+		
+	</kandidati>
